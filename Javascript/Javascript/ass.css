@@ -1,0 +1,13 @@
+body{
+    background-color:lightgreen;
+}
+h1{
+    font-style:initial;
+}
+div{
+    border-color: black;
+    background-origin: padding-box;
+}
+p{
+    text-decoration-line: line-through;
+}
